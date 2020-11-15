@@ -1,1 +1,6 @@
-[![imcmy's github stats](https://github-readme-stats.vercel.app/api?username=imcmy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Hello! 👋
+
+This is just a place nobody cares about.
+
+- I'm currently working on tpm and trusted system.
+- I'm struggle to learn.
