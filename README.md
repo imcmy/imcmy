@@ -6,3 +6,9 @@ This is just a place nobody cares about.
 
 - I'm currently working on tpm and trusted system.
 - I'm struggle to learn.
+
+## 2023 Target 🎯
+
+Continous contributions!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imcmy&theme=icegray)](https://git.io/streak-stats)
