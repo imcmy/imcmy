@@ -11,4 +11,4 @@ This is just a place nobody cares about.
 
 Continous contributions!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imcmy&theme=icegray)](https://git.io/streak-stats)
+![Coding Activity](https://wakatime.com/share/@imcmy/2035ba18-59cb-48f8-883a-c0d01280bf4d.svg)
