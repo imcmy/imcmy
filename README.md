@@ -4,10 +4,10 @@
 
 This is just a place nobody cares about.
 
-- I'm currently working on tpm and trusted system.
+- I'm currently working on trusted systems.
 - I'm struggle to learn.
 
-## 2023 Target 🎯
+## 2024 Target 🎯
 
 Continous contributions!
 
